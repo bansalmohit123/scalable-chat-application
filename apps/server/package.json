@@ -19,6 +19,7 @@
         "@types/node": "^22.10.1",
         "dotenv": "^16.4.7",
         "ioredis": "^5.4.1",
+        "kafkajs": "^2.2.4",
         "socket.io": "^4.8.1",
         "tsx": "^4.19.2",
         "typescript": "^5.7.2"
